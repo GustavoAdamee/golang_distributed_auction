@@ -2,7 +2,8 @@
 
 ## Architecture
 
-*[Architecture diagram will be added here]*
+<img width="5659" height="2541" alt="trabalho_1_sistemas_distribuidos" src="https://github.com/user-attachments/assets/f10cfa18-4b15-4052-a64d-0cdeb9c00b94" />
+
 
 ## Overview
 
